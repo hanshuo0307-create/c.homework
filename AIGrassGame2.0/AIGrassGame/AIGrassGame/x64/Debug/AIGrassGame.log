@@ -1,0 +1,6 @@
+﻿D:\Visual Studio\ Visual Studio2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(AIGrassGame.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  MonsterAILayer.h
+  main.cpp
+C:\Users\admin\Desktop\c++\AIGrassGame\AIGrassGame\main.cpp(49,29): warning C4566: 由通用字符名称“\u25A3”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码...
+  AIGrassGame.vcxproj -> C:\Users\admin\Desktop\c++\AIGrassGame\x64\Debug\AIGrassGame1.0.exe
