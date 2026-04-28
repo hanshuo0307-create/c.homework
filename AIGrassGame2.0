@@ -1,3 +1,0 @@
-git add <文件夹名>/.gitkeep
-git commit -m "Add empty directory with .gitkeep"
-git push origin main
