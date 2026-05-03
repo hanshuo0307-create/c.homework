@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>banana_alive.gif</file>
+        <file>banana_dead.gif</file>
+        <file>kfc_cat.gif</file>
+        <file>hearts.gif</file>
+        <file>beecat.gif</file>
+        <file>ghost.gif</file>
+        <file>gun_cat.gif</file>
+        <file>Hitler.gif</file>
+        <file>police_cat.gif</file>
+        <file>robber.gif</file>
+        <file>potato_cat.gif</file>
+    </qresource>
+</RCC>
