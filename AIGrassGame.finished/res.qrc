@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>banana_alive.gif</file>
+        <file>banana_dead.gif</file>
+        <file>kfc_cat.gif</file>
+        <file>hearts.gif</file>
+        <file>beecat.gif</file>
+        <file>ghost.gif</file>
+        <file>gun_cat.gif</file>
+        <file>Hitler.gif</file>
+        <file>police_cat.gif</file>
+        <file>robber.gif</file>
+        <file>potato_cat.gif</file>
+        <file>start_bg.png</file>
+        <file>bg_lv1.png</file>
+        <file>bg_lv2.png</file>
+        <file>bg_lv3.png</file>
+        <file>bg_lv4.png</file>
+        <file>milk_cat.gif</file>
+        <file>motor_cat.gif</file>
+        <file>select_bg.png</file>
+        <file>env_bg.png</file>
+        <file>trans_3.png</file>
+        <file>trans_4.png</file>
+        <file>trans_1.png</file>
+        <file>dead_bg.png</file>
+        <file>victory_bg.png</file>
+        <file>trans_2.png</file>
+        <file>skill_i.png</file>
+        <file>skill_j.png</file>
+        <file>skill_k.png</file>
+        <file>skill_l.png</file>
+        <file>battle_music.wav</file>
+        <file>boss_epic_music.wav</file>
+        <file>menu_music.wav</file>
+        <file>nailong_laugh.wav</file>
+        <file>wasted.wav</file>
+        <file>banana_cry.wav</file>
+        <file>rule_bg.png</file>
+    </qresource>
+</RCC>
